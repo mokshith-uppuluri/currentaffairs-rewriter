@@ -1,0 +1,5 @@
+{
+  "name": "Current Affairs Rewriter",
+  "description": "An exam-focused engine that rewrites current affairs content into five languages (Telugu, Hindi, Kannada, Tamil, English) with a structured, competitive-exam oriented format.",
+  "requestFramePermissions": []
+}
